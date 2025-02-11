@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{A20A3D77-5693-A53F-61EF-880001B0D1AC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/World.cs">
+    <Files>
+      <File FileName="Assets/Scripts/World.cs" Line="27" Column="2" />
+      <File FileName="Assets/Scripts/Chunk.cs" />
+      <File FileName="Assets/Scripts/UVScroller.cs" />
+      <File FileName="Assets/Scripts/Quad.cs" />
+      <File FileName="Assets/Scripts/Block.cs" Line="32" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0533ff00-fcff-43fe-afce-00e37bbf1362" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

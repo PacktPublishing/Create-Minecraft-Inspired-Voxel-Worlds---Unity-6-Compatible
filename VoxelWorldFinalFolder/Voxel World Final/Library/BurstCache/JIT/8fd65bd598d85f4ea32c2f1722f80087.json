@@ -1,0 +1,96 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "Unity.Jobs.LowLevel.Unsafe.JobsUtility::GetWorkStealingRange",
+      "FullName": "Unity.Jobs.LowLevel.Unsafe.JobsUtility.GetWorkStealingRange(ref Unity.Jobs.LowLevel.Unsafe.JobRanges ranges, int jobIndex, ref int beginIndex, ref int endIndex)_72EEAC320E5935AA"
+    },
+    {
+      "Name": "Unity.Jobs.LowLevel.Unsafe.JobsUtility::PatchBufferMinMaxRanges",
+      "FullName": "Unity.Jobs.LowLevel.Unsafe.JobsUtility.PatchBufferMinMaxRanges(System.IntPtr bufferRangePatchData, void* jobdata, int startIndex, int rangeSize)_9EB083F63620D8B8"
+    },
+    {
+      "Name": "UnityEngine.Mesh/MeshData::GetVertexCount",
+      "FullName": "UnityEngine.Mesh.MeshData.GetVertexCount(System.IntPtr self)_04C2B7ACF83995EF"
+    },
+    {
+      "Name": "UnityEngine.Mesh/MeshData::GetVertexDataSize",
+      "FullName": "UnityEngine.Mesh.MeshData.GetVertexDataSize(System.IntPtr self, int stream)_D19EF2C66C535B73"
+    },
+    {
+      "Name": "UnityEngine.Mesh/MeshData::GetVertexDataPtr",
+      "FullName": "UnityEngine.Mesh.MeshData.GetVertexDataPtr(System.IntPtr self, int stream)_0964A6E79DD04A10"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.UnsafeUtility::Free",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.UnsafeUtility.Free(void* memory, Unity.Collections.Allocator allocator)_1229507E56C0F090"
+    },
+    {
+      "Name": "UnityEngine.Mesh/MeshData::GetIndexDataSize",
+      "FullName": "UnityEngine.Mesh.MeshData.GetIndexDataSize(System.IntPtr self)_AA3C0078AA4C8FA9"
+    },
+    {
+      "Name": "UnityEngine.Mesh/MeshData::GetIndexDataPtr",
+      "FullName": "UnityEngine.Mesh.MeshData.GetIndexDataPtr(System.IntPtr self)_4CDC3F4D52C2ABE7"
+    },
+    {
+      "Name": "UnityEngine.Mesh/MeshData::GetIndexFormat",
+      "FullName": "UnityEngine.Mesh.MeshData.GetIndexFormat(System.IntPtr self)_1AFF0C5FEB9615DB"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.UnsafeUtility::Malloc",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.UnsafeUtility.Malloc(long size, int alignment, Unity.Collections.Allocator allocator)_FEDE5F1D450F457E"
+    },
+    {
+      "Name": "UnityEngine.Mesh/MeshData::CopyAttributeIntoPtr",
+      "FullName": "UnityEngine.Mesh.MeshData.CopyAttributeIntoPtr(System.IntPtr self, UnityEngine.Rendering.VertexAttribute attr, UnityEngine.Rendering.VertexAttributeFormat format, int dim, System.IntPtr dst)_B30140A136EA3113"
+    },
+    {
+      "Name": "UnityEngine.Mesh/MeshData::GetVertexBufferCount",
+      "FullName": "UnityEngine.Mesh.MeshData.GetVertexBufferCount(System.IntPtr self)_FE1589C781DDC621"
+    },
+    {
+      "Name": "UnityEngine.Mesh/MeshData::GetSubMesh_Injected",
+      "FullName": "UnityEngine.Mesh.MeshData.GetSubMesh_Injected(System.IntPtr self, int index, ref UnityEngine.Rendering.SubMeshDescriptor ret)_892EF0A006C07593"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle::CheckReadAndThrowNoEarlyOut_Injected",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle.CheckReadAndThrowNoEarlyOut_Injected(ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle handle)_5D0EA054F9B3B77F"
+    },
+    {
+      "Name": "Unity.Jobs.LowLevel.Unsafe.JobsUtility::get_IsExecutingJob",
+      "FullName": "Unity.Jobs.LowLevel.Unsafe.JobsUtility.get_IsExecutingJob()_2DA3431E8BDE6884"
+    },
+    {
+      "Name": "UnityEngine.Mesh/MeshData::HasVertexAttribute",
+      "FullName": "UnityEngine.Mesh.MeshData.HasVertexAttribute(System.IntPtr self, UnityEngine.Rendering.VertexAttribute attr)_FC99879FC6F07AD4"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle::CheckDeallocateAndThrow_Injected",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle.CheckDeallocateAndThrow_Injected(ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle handle)_90DC60F2E67B7353"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle::IsTempMemoryHandle_Injected",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle.IsTempMemoryHandle_Injected(ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle handle)_9543CEE125CDB448"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle::Create_Injected",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle.Create_Injected(ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle ret)_B90501C0654073BD"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle::Release_Injected",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle.Release_Injected(ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle handle)_05C17E99A27F9A17"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle::CheckWriteAndThrowNoEarlyOut_Injected",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle.CheckWriteAndThrowNoEarlyOut_Injected(ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle handle)_BBB3C78A1E995A27"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle::GetTempMemoryHandle_Injected",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle.GetTempMemoryHandle_Injected(ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle ret)_FCDF5C150EA4E096"
+    },
+    {
+      "Name": "burst_abort",
+      "FullName": "unused.burst_abort(System.String errorId, System.String message)_C2EC9A829AFAD7DD"
+    }
+  ]
+}
