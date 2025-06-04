@@ -1,3 +1,0 @@
-https://docs.unity3d.com/2020.1/Documentation/ScriptReference/Mesh.MeshData.html
-
-https://docs.unity3d.com/ScriptReference/Unity.Collections.NativeArray_1.Reinterpret.html

@@ -1,1 +1,0 @@
-https://developer.arm.com/documentation/102073/0100/Texture-filtering
